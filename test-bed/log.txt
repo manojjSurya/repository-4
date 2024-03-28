@@ -1,0 +1,13 @@
+Mar 28 05:14:27.129 INFO log_file: test-bed/log.txt
+Mar 28 05:14:27.129 INFO diagnostics_file: test-bed/diagnostics.txt
+Mar 28 05:14:27.129 INFO log_level: trace
+Mar 28 05:14:27.129 INFO The stg.non_sec_exposure_fn is:test-bed/STG_NON_SEC_EXPOSURE_FN.dat
+Mar 28 05:14:27.129 INFO the path of I2 file is:test-bed/FINNONE_EXTRACT.csv
+Mar 28 05:14:27.129 INFO The path of finnone npa file is:test-bed/FINNONE_NPA.dat
+Mar 28 05:14:27.129 INFO The path of finnone master file is:test-bed/Finnone_Master.xlsx
+Mar 28 05:14:27.129 INFO The path of stg company details file is:test-bed/STG_COMPANY_DETAILS.txt
+Mar 28 05:14:27.129 INFO The path of restructure merged file is:test-bed/Restructure_Merged.txt
+Mar 28 05:14:27.129 INFO The path of fn collateral file is:test-bed/FN_Collateral.txt
+Mar 28 05:14:27.129 INFO output_file_path:test-bed/Output.txt
+Mar 28 05:14:27.129 INFO sheet_name is:Sheet1
+Mar 28 05:14:27.131 INFO Total time taken for execution: 2.336654ms
